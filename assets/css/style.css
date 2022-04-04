@@ -1,0 +1,93 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+h1 {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+h2 {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+h3 {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+p {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+body {
+    height: 1350px;
+}
+br.br {
+    border: solid 50px black;
+}
+h1.Homework {
+    position: static;
+    text-align: center;
+    height: 20px;
+}
+h1.Geography{
+    position: static;
+    text-align: center;
+    height: 20px;
+}
+h2.sea {
+    text-align: center;
+    padding-top: 10px;
+}
+.window {
+    height: 750px;
+}
+img.next-page {
+    width: 150px;
+    height: auto;
+    position: fixed;
+    top: 92%;
+    left: 91%;
+}
+img.last-page {
+    width: 150px;
+    height: auto;
+    position: fixed;
+    top: 92%;
+}
+.img-sea{
+    position: absolute;
+    left: 30%;
+    bottom: 37%;
+    height: auto;
+    width: 500px;
+}
+.img-sea2 {
+    position: absolute;
+    height: auto;
+    width: 500px;
+    left: 60%;
+    bottom: 40%;
+}
+.img-sea3 {
+    position: absolute;
+    left : 1220px;
+    bottom: 125px;
+    height: auto;
+    width: 550px;
+}
+.img-sea4 {
+    position: absolute;
+    left: 600px;
+    bottom: 25px;
+    height: auto;
+    width: 600px;
+}
+.img-sea5 {
+    position: absolute;
+    left: 50%;
+    bottom: 20%;
+    height: auto;
+    width: 500px;
+}
+h2.right {
+    text-align: right;
+}
+p.right {
+    text-align: right;
+}
